@@ -35,4 +35,4 @@
 入职可选配 Macbook Pro 或 PC  
 薪资依能力定，相信不会让你失望
 
-有意者请发送简历到 c2NvdHQuY2hlbkA2MWZpbmFuY2lhbC5jb20uYXU= (base64)
+有意者请发送简历到 aHJANjFmaW5hbmNpYWwuY29tLmF1 (base64)
