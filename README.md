@@ -37,3 +37,5 @@
 薪资依能力定，相信不会让你失望
 
 有意者请发送简历到 aHJANjFmaW5hbmNpYWwuY29tLmF1 (base64)
+
+![微信公众号](./qrcode.png)
