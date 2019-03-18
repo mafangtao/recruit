@@ -1,5 +1,7 @@
 ### 61 Financial 招聘 Python 后端/全栈工程师（2+ years，坐标墨尔本，提供雇主担保）
 
+![工作环境](./environment.png)
+
 > 可提供 [TSS 482 Medium-term 工签](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream)（可转 [186 永居](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/employer-nomination-scheme-186/temporary-residence-transition-stream)），当前下签时间大概 [1 ~ 2 个月](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times/global-visa-processing-times)，要求下签后尽快到岗  
 > （注：有关签证的*基本信息*，请自行查阅极尽详细的[澳洲移民局官网](https://immi.homeaffairs.gov.au)，而不是直接问我们哈）
 
@@ -38,4 +40,4 @@
 
 有意者请发送简历到 aHJANjFmaW5hbmNpYWwuY29tLmF1 (base64)
 
-![微信公众号](./qrcode.png)
+![微信公众号二维码](./qrcode.png)
